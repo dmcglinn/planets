@@ -1,2 +1,4 @@
 /results
 *.dat
+/private-data-subdir
+.Rproj.user
